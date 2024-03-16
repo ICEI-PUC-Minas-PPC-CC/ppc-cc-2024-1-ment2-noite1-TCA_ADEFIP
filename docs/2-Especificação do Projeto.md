@@ -1,51 +1,43 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas (identifiquem, no mínimo, 2 personas), histórias de usuários (identifiquem, no mínimo, 3 histórias de usuários por persona), requisitos funcionais, requisitos não funcionais e artefatos produzidos para levantamento de dados).
-
 ## Personas
 
-Exemplo:
+
+Persona 1
 
 |**Maria Luiza Teixeira**|           |                             | 
 |-------------------|-----------|-----------------------------|
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/trasnferir.jpg" width="200" height="200"/>|**Idade:** 28 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Vendedora.       |**Atribuições:** realizar a venda de roupas em uma loja online. 
 |**Motivações:** Ela deseja uma ferramenta que a ajude a entender as necessidades do filho, para que possa atende-las de forma rápida, além de conseguir trabalhar e realizar as tarefas de casa, mais tranquilamente, sem a preocupação de que seu filho esteja precisando de algo.  |**Frustações:** Tem dificuldade para entender as necessidades de seu filho, o que ele precisa no momento, também sente dificuldade em focar no trabalho, por ficar preocupada se seu filho está necessitando de algo e não poder atende-lo.   |**Hobbies, história:** quer uma qualidade de vida melhor para ela e seu filho, que possa ter mais liberdade cuidar de si mesma sem se preocupar, e fazer com que cuidar do seu filho não seja uma frustração por não conseguir entende-lo de forma clara.
 
-Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes/beneficiários ideais que sua solução almeja.
+
+Persona 2
+
+
+|**Maria Luiza Teixeira**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/trasnferir.jpg" width="200" height="200"/>|**Idade:** 28 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Vendedora.       |**Atribuições:** realizar a venda de roupas em uma loja online. 
+|**Motivações:** Ela deseja uma ferramenta que a ajude a entender as necessidades do filho, para que possa atende-las de forma rápida, além de conseguir trabalhar e realizar as tarefas de casa, mais tranquilamente, sem a preocupação de que seu filho esteja precisando de algo.  |**Frustações:** Tem dificuldade para entender as necessidades de seu filho, o que ele precisa no momento, também sente dificuldade em focar no trabalho, por ficar preocupada se seu filho está necessitando de algo e não poder atende-lo.   |**Hobbies, história:** quer uma qualidade de vida melhor para ela e seu filho, que possa ter mais liberdade cuidar de si mesma sem se preocupar, e fazer com que cuidar do seu filho não seja uma frustração por não conseguir entende-lo de forma clara.
+
 
 Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt
 
 ## Histórias de Usuários
 
-Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
 Exemplo:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
+|Maria Luiza Teixeira| De mais facilidade para entender as necessidades do meu filho | Conseguir realiza-las com mais rapidez e eficacia. |
+
+
+
 |Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Obs.1: Caso seu grupo vá desenvolver uma solução de software, as seções "requisitos funcionais", "requisitos não funcionais" e "restrições" DEVERÃO ser PREENCHIDAS.
 ## Obs.2: Caso seu grupo vá desenvolver algum atividade que demande, uma pesquisa de campo através de questinários, a seção "artefatos para levantamento de dados" DEVERÁ ser PREENCHIDA.
@@ -57,59 +49,25 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deverá permitir o gerenciamento dos pacientes | ALTA | 
-|RF-002| O sistema deverá exibir todo histórico de atendimento do paciente   | ALTA |
-
+|RF-001| O sistema deverá executar sons | ALTA | 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo | MÉDIA | 
-|RNF-002| o sistema deve processar requisições do usuário em, no máximo, 3s |  BAIXA | 
+|RNF-001| O aparelho deverá funcionar com bateria | ALTA | 
+|RNF-002| O aparelho deverá ser resistende a impactos |  ALTA | 
+|RNF-003| O aparelho deverá ser de fácil usabilidade | ALTA | 
+|RNF-002| O aparelho deverá ser leve |  MÉDIA | 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ### Artefatos para levantamento de dados
 
-Nesta seção, caso seu grupo vá realizar algum tipo de levantamento de dados/entrevistas, descreva o(s) artefato(s) produzidos para tal. Também deverá ser descrita qual estratégia será utilizada para este levantamento. Por exemplo: como os questionários serão aplicados? (_in loco_, via disponibilização pela _web_ etc), qual material/estratégia de divulgação será utilizado? 
-
-Não se preocupe em descrever os resultados agora, eles deverão ser descritos apenas na seção "Detalhamento preliminar" (Etapa 03).
 
 
 
 
 
 
-Maria Luiza Teixeira
-
-
-Idade: 28 anos
-Profissão: Vendedora
-Naturalidade: Poços de Caldas
-
-Maria Luzia, tem 28 anos e é consultora de vendas em uma loja de roupas online. Além disso, também é mãe e esposa, além de também ter que exercer as atividades da casa. 
-
-Ela é mãe de Lucas, de 02 anos, uma criança não verbal, que teve sua fala e audição comprometidas, devido a grave doença que enfrentou, a meningite. 
-
-Seu trabalho é home office, o que facilita a criação e cuidado do seu filho, mas, ainda assim, Maria tem grandes dificuldades de entender o que Lucas precisa no momento, como por exemplo, quando precisa ir ao banheiro ou quando sente fome. 
-
-Ela deseja uma ferramenta que a ajude a entender as necessidades do filho, para que possa atende-las de forma rápida, além de conseguir trabalhar e realizar as tarefas de casa, mais tranquilamente, sem a preocupação de que seu filho esteja precisando de algo. 
 
