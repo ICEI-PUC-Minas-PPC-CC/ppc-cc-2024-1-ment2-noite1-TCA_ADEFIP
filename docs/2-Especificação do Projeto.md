@@ -51,11 +51,6 @@ Exemplo:
 
 
 
-### Artefatos para levantamento de dados
-
-
-
-
 
 
 
