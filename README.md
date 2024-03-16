@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# MESA ADEFIP
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
@@ -6,14 +6,14 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Augusto Georges Adão Miotti
+- Eduardo Augusto Martins Vieira
+- Emilly Mikaely Lima dos Santos Silva
+- Giovani Guedes Silva Jacintho
 
 ## Professor
 
-- Mestre Yoda
+- Luciana de Nardin
 
 # Documentação
 
