@@ -8,10 +8,10 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Exemplo:
 
-|**Camila Fiães**|           |                             | 
+|**Maria Luiza Teixeira**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 28 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Vendedora.       |**Atribuições:** realizar a venda de roupas em uma loja online. 
+|**Motivações:** Ela deseja uma ferramenta que a ajude a entender as necessidades do filho, para que possa atende-las de forma rápida, além de conseguir trabalhar e realizar as tarefas de casa, mais tranquilamente, sem a preocupação de que seu filho esteja precisando de algo.  |**Frustações:** Tem dificuldade para entender as necessidades de seu filho, o que ele precisa no momento, também sente dificuldade em focar no trabalho, por ficar preocupada se seu filho está necessitando de algo e não poder atende-lo.   |**Hobbies, história:** quer uma qualidade de vida melhor para ela e seu filho, que possa ter mais liberdade cuidar de si mesma sem se preocupar, e fazer com que cuidar do seu filho não seja uma frustração por não conseguir entende-lo de forma clara.
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
@@ -92,3 +92,24 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 Nesta seção, caso seu grupo vá realizar algum tipo de levantamento de dados/entrevistas, descreva o(s) artefato(s) produzidos para tal. Também deverá ser descrita qual estratégia será utilizada para este levantamento. Por exemplo: como os questionários serão aplicados? (_in loco_, via disponibilização pela _web_ etc), qual material/estratégia de divulgação será utilizado? 
 
 Não se preocupe em descrever os resultados agora, eles deverão ser descritos apenas na seção "Detalhamento preliminar" (Etapa 03).
+
+
+
+
+
+
+Maria Luiza Teixeira
+
+
+Idade: 28 anos
+Profissão: Vendedora
+Naturalidade: Poços de Caldas
+
+Maria Luzia, tem 28 anos e é consultora de vendas em uma loja de roupas online. Além disso, também é mãe e esposa, além de também ter que exercer as atividades da casa. 
+
+Ela é mãe de Lucas, de 02 anos, uma criança não verbal, que teve sua fala e audição comprometidas, devido a grave doença que enfrentou, a meningite. 
+
+Seu trabalho é home office, o que facilita a criação e cuidado do seu filho, mas, ainda assim, Maria tem grandes dificuldades de entender o que Lucas precisa no momento, como por exemplo, quando precisa ir ao banheiro ou quando sente fome. 
+
+Ela deseja uma ferramenta que a ajude a entender as necessidades do filho, para que possa atende-las de forma rápida, além de conseguir trabalhar e realizar as tarefas de casa, mais tranquilamente, sem a preocupação de que seu filho esteja precisando de algo. 
+
