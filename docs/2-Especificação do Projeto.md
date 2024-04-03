@@ -28,7 +28,8 @@
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deverá executar sons | ALTA | 
+|RF-001| O sistema deverá emitir sons de comunicação básica como por exemplo: fome, sede, sono, banheiro, etc.. 
+O produto também deverá incluir botões que executam ações de afirmação e negação(sim e não respectivament) e um botão de emergência.| ALTA | 
 
 ### Requisitos não Funcionais
 
@@ -37,7 +38,8 @@
 |RNF-001| O aparelho deverá funcionar com bateria | ALTA | 
 |RNF-002| O aparelho deverá ser resistende a impactos |  ALTA | 
 |RNF-003| O aparelho deverá ser de fácil usabilidade | ALTA | 
-|RNF-002| O aparelho deverá ser leve |  MÉDIA | 
+|RNF-004| O aparelho deverá emitir sons com clareza |  ALTA | 
+|RNF-005| O aparelho deverá ser leve |  MÉDIA | 
 
 
 
