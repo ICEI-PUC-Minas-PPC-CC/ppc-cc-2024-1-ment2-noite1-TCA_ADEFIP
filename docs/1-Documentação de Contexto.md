@@ -4,6 +4,7 @@
 
 ## Problema
 
+Indivíduos não verbais, como aqueles com autismo severo, paralisia cerebral ou outras condições que afetam a comunicação verbal, enfrentam barreiras significativas ao tentar expressar suas necessidades básicas, como fome, sede, dor, entre outras. A falta de meios eficazes de comunicação pode levar a frustração, isolamento e até mesmo a riscos à saúde e bem-estar dessas pessoas.
  
 
 ## Objetivos 
@@ -12,7 +13,8 @@
 
 ## Justificativas
 
- Com o aumento do uso da tecnologia para atividades rotineiras, vimos a oportunidade de trazer, com recursos básicos, autonomia e facilidade para a vida de pessoas que tiveram sua fala comprometida e que, por isso, tem suas condições de vida, dificultadas. Além disso, trazer também, mais facilidade no trabalho dos cuidadores e famílias que se disponibilizam a cuidar dessas pessoas, para que possam atendê-las de forma mais eficaz e direta.
+A criação de uma ferramenta para ajudar pessoas não verbais a solicitar ajuda é crucial para promover sua autonomia, dignidade e inclusão social. Ao proporcionar uma maneira eficaz e acessível de expressar suas necessidades, essa ferramenta pode melhorar significativamente a qualidade de vida desses indivíduos e reduzir as barreiras que enfrentam diariamente.
+
 
 ## Publico Alvo
 
