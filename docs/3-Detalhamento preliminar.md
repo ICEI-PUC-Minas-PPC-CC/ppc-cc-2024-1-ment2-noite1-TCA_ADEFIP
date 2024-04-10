@@ -1,10 +1,12 @@
 # 1) Objetivos de Desenvolvimento Sustentável
+>
+> Objetivo 10. Reduzir a desigualdade dentro dos países e entre eles
 
-Os 17 objetivos de Desenvolvimento Sustentável defnidos pela ONU (Organização das Nações Unidas) para as cidades, como parte da Agenda 2023, abrangem diferentes temas relacionados a aspectos sociais e ambientais.
+10.2 Até 2030, empoderar e promover a inclusão social, econômica e política de todos, independentemente da idade, 
+gênero, deficiência, raça, etnia, origem, religião, condição econômica ou outra
 
-Neste sentido, neste seção, seu grupo deverá contextualizar e justificar em qual dos 17 objetivos de Desenvolvimento Sustentável a temática do problema que seu grupo deseja resolver se encaixa.
+O projeto tem como intuito auxiliar na inclusão social de membros da sociedade geral que possuem os mais diversos tipos de deficiencia ou dificuldade na comunicação verbal como o espectro autista, AVC, miningite, etc..
 
-> Links úteis:
 > - [Os 17 Objetivos de Desenvolvimento Sustentável](https://brasil.un.org/pt-br/sdgs)
 
 
