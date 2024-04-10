@@ -10,9 +10,12 @@ O projeto tem como intuito auxiliar na inclusão social de membros da sociedade 
 > - [Os 17 Objetivos de Desenvolvimento Sustentável](https://brasil.un.org/pt-br/sdgs)
 
 
-# 2) Detalhamento preliminar
+# 2) Reunião com a ADEFIP
 
-Print e Descrever a reunião do Teams com horario e data do ocorrido
+![Reuniao_ADEFIP](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-mesa_adefip/assets/20716371/e46590d8-a29c-46c7-b107-f83f20e1ce02)
+No dia 21 de março de 2024, foi realizada uma reunião através da plataforma Microsoft Teams a respeito da ideia aqui proposta do que chamamos de "mesa ADEFIP" pois trata-se de um equipamento eletrônico portátil onde o usuário com dificuldade de fala por razões diversas, poderá agilizar pedidos de necessidades básicas através do clique de um dos sete botões pré-definidos no aparelho, sendo eles: fome, sede, banheiro, dor, brincar (aqui por se tratar de pacientes crianças) e por fim sim e não para confirmar ou negar o que foi pedido, para que não haja erros naquilo requisitado. 
+ 
+Durante a reunião, as convidadas reesposáveis pela ADEFIP (Associação dos Deficientes Físicos de Poços de Caldas) Larisse e Marcela, mostraram-se interessadas na ideia, porém, está terá que sofrer alterações pequenas, mas cruciais para atender os pacientes do grupo na qual esse projeto foca, dentre as mudanças previstas para o futuro, está a adição de botões menores para ter a possibilidade de mais funções, o tamanho também deverá mudar para maior ou menor a depender de uma outra reunião que ainda irá acontecer, portanto aguarda-se a oportunidade desta ocorrer, no mais, o equipamento se mostrou útil e de grande ajuda no tratamento das pessoas. 
 
 ## Prototipo da Mesa ADEFIP
 
