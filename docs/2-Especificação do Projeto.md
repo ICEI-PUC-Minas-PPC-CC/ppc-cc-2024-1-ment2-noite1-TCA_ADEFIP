@@ -11,7 +11,7 @@
 |**Zelia Gomes**|           |                             | 
 |-------------------|-----------|-----------------------------|
 ![753fbf50-c1c5-4afd-970f-9138438843e4](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-mesa_adefip/assets/20716371/801be850-83ce-49e9-ae90-9f56d0bfc113)|**Idade:** 30 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Dona de casa.       |**Atribuições:**  Dona de casa.
-|**Motivações:** quer se expressar de forma clara, poder socializar e não ser um fardo para sua família e pessoas do seu convívio social, sentir que tem autonomia sobre suas próprias vida .  |**Frustações:** Se sente deprimida, depressiva e incapaz, um sentimento de que é um peso para todas as pessoas.   |**Hobbies, história:** quer facilidade para expressar suas necessidades, construir laços sentimentais sem sentir que está sendo um incomodo todo o tempo.
+|**Motivações:** quer se expressar de forma clara, poder socializar e não ser um fardo para sua família e pessoas do seu convívio social, sentir que tem autonomia sobre sua própria vida .  |**Frustações:** Se sente deprimida, depressiva e incapaz, um sentimento de que é um peso para todas as pessoas.   |**Hobbies, história:** quer facilidade para expressar suas necessidades, construir laços sentimentais sem sentir que está sendo um incomodo todo o tempo.
 
 
 ## Histórias de Usuários
