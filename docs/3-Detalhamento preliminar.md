@@ -12,18 +12,26 @@ O projeto tem como intuito auxiliar na inclusão social de membros da sociedade 
 
 # 2) Detalhamento preliminar
 
-Esta seção deverá ser adaptada a proposta do grupo, de forma que:
-a) Caso seu grupo vá desenvolver uma solução de software, as seções "projeto de interface" e "_user flow_" deverão ser feitas.
-b) Caso seu grupo vá desenvolver cursos/oficinas na PUC, ou na comunidade, um "cronograma preliminar" das atividades a serem realizadas deverá ser proposto.
-c) Caso seu grupo tenha realizado alguma pesquisa de campo, entrevistas ou reuniões com representantes do público-alvo, os registros das entrevistas/reuniões, os resultados obtidos e as conclusões encontradas deverão ser descritas aqui.
-Caso seu trabalho demanda outro tipo de detalhamento preliminar, os artefatos a serem entregues nesta etapa deverão ser alinhados junto com seu(sua) professor(a).
+Print e Descrever a reunião do Teams com horario e data do ocorrido
 
 ## Prototipo da Mesa ADEFIP
 
-https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-mesa_adefip/assets/20716371/9109f4e1-8aa8-43eb-a908-3d93a20ec188
+![Foto 1](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-mesa_adefip/assets/20716371/a74145bc-53b1-4e5c-a485-20f0a62182ec)
+
 Medidas e funcionalidades que o equipamento irá ter (foto ilustrativa).
 
-Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+
+![Foto1](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-mesa_adefip/assets/20716371/7e8e08e2-3277-4157-85da-86d740f51a1f)
+Sete botões, cada um contendo uma fala pedindo algo em especifico que é ilustrado por um desenho no botão em questão.
+
+![Foto2](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-mesa_adefip/assets/20716371/891198df-a471-4c5c-8816-7ac2fb7e9e38)
+Duas saidas de aúdio para que a fala seja ouvida em alto e bom som quando algum botão for pressionado e desenho do corpo humano para auxiliar
+no auxilio do paciente em mostrar aonde está com dor quando essa for a necessidade.
+
+![Foto3](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-mesa_adefip/assets/20716371/e4e2447b-a979-43d6-b64e-69d2a10ab0b8)
+Entrada USB do tipo C para carregar a bateria do equipamento através de um meio de facil acesso como por exemplo um carregador convencional de 
+celular.
+
 
 ## Lista de Materiais
 
@@ -111,29 +119,3 @@ Impressão 3D PUC
 Valor total comprando pela menor quantidade de itens: R$194,00 (Frete não foi considerado)
 
 ## OBS: Por ser uma lista de materiais preliminar podendo sofrer alterações no futuro, não foi considerado o valor de 10 unidades do equipamento em questão, apenas foi incluído anúncios de peças que saem mais barato se comprado em maior quantidade, pois estes podem vir a serem utilizados em futuros projetos de outros alunos.
-
-
-
-
-
-
-## Cronograma preliminar
-
-Neta seção, deverá ser proposto o cronograma de execução das atividades/encontros ou então, de desenvolvimento das demais etapas do projeto.
-Ainda não é necessário incluir, neste momento, o material de apoio a ser utilizado em cada um dos encontros.
-
-|Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
-|------|-----------------------------------------|----|
-|1| Introdução à lógica de programação | 30 minutos | 
-|2| Introdução ao funcionamento de um compilador   | 20 minutos |
-
-## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
-
-Nesta seção, deverão ser apresentados os registros das reuniões realizadas com representantes do público-alvo, os gráficos/tabelas com os resultados das pesquisas/entrevistas feitos e também, às conclusões que o grupo pode alcançar por meio destes artefatos.
-
-
-
-
-
-
-
