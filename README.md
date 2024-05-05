@@ -1,8 +1,8 @@
 # MESA ADEFIP
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`Disciplina: Mentoring II`
+`2024 - Semestre 02`
 
 ## Integrantes
 
