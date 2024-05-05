@@ -1,7 +1,7 @@
 # Reunião ADEFIP
-Após uma reunião presencial na ADEFIP juntamente da professora Luciana, houve a necessidade de atualizar levemente o equipamento, indo de 7 para 8 botões e a adição da função bluetooth e devido a isso o tamanho do equipamento mudou um pouco também.
+Após uma reunião presencial na ADEFIP juntamente da professora Luciana, houve a necessidade de atualizar levemente o equipamento, indo de 7 para 8 botões e a adição da função bluetooth e devido a isso o tamanho do equipamento mudou também.
 
-Por hora, a fabricação do equipamento para atender os requisitos desta matéria me questão, ficou a cargo de ser utilizado Arduino com acessórios conforme idealizado no início deste projeto, ficando a uma futura oportunidade a possibilidade de fabricação de um chip próprio para diminuir custos, peso e prazo de fabricação.
+Para atender os requisitos desta matéria, a fabricação do equipamento será feita com Arduino e acessórios conforme idealizado no início deste projeto, ficando para uma futura oportunidade, a possibilidade de fabricação de um chip próprio para diminuir custos, peso e prazo de fabricação.
 
 Abaixo deixo uma foto da atualização visual do equipamento, lembrando que é uma imagem meramente ilustrativa, pois o equipamento poderá sofrer ajustes estruturais caso necessário.
 
@@ -52,4 +52,4 @@ Abaixo deixo uma foto da atualização visual do equipamento, lembrando que é u
 11. Corpo e botões
 Impressão 3D PUC
 
-## OBS: Os anúncios aqui registrados visa a compra pelo próprio ou caso este venha ser desativado pelo vendedor, servir de referência para achar outro local de compra! Caso seja necessário, eu Giovani fico prontamente ao dispor da PUC Minas - Poços de Caldas para ajudar na hora da compra e sanar possíveis duvidas quanto a essa lista e/ou projeto.
+`OBS: Os anúncios aqui registrados visa a compra pelo próprio ou caso este venha ser desativado pelo vendedor, servir de referência para achar outro local de compra! Caso seja necessário, eu Giovani fico prontamente ao dispor da PUC Minas - Poços de Caldas para ajudar na hora da compra e sanar possíveis duvidas quanto a essa lista e/ou projeto.`
