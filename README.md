@@ -2,7 +2,7 @@
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Mentoring II`
-`2024 - Semestre 02`
+`1º Semestre de 2024`
 
 ## Integrantes
 
