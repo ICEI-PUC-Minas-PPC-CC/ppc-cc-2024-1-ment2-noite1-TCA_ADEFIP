@@ -23,14 +23,14 @@
 |Zelia Gomes | Fazer com que minha mãe se expresse melhor | Conseguir conceder os desejos da mãe e ampara-la da melhor forma. |
 
 
-### Requisitos Funcionais
+## Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| O sistema deverá emitir sons de comunicação básica como por exemplo: fome, sede, sono, banheiro, etc.. 
 O produto também deverá incluir botões que executam ações de afirmação e negação(sim e não respectivament) e um botão de emergência.| ALTA | 
 
-### Requisitos não Funcionais
+## Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
