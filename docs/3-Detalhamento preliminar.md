@@ -39,7 +39,7 @@ celular.
 ## Lista de Materiais
 
 
-## Produtos com DUPLA quantidade x preço de compra:
+`Produtos com DUPLA quantidade x preço de compra`
 
 1. Case Suporte/Soquete Para 1 Bateria 18650
 [2 Un. R$17,00](https://produto.mercadolivre.com.br/MLB-3436765353-2-case-suporte-soquete-para-1-bateria-18650-c-nota-fiscal-_JM#position=14&search_layout=grid&type=item&tracking_id=4799b0cc-274b-4574-a0e9-59e8b80a37b8) ou [10 Un. R$47,00](https://produto.mercadolivre.com.br/MLB-1951909858-kit-10-case-suporte-bateria-18650-p-1-bateria-37v-_JM#is_advertising=true&position=11&search_layout=grid&type=pad&tracking_id=fabd6b7a-1e4a-4ff8-bc2d-fee9e842caec&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=11&ad_click_id=ZmU2MGE3NWItOGI5ZS00M2IyLWIzNGQtYjI5YzAxZTNmM2Jl)
@@ -57,7 +57,7 @@ celular.
 [1 Un. R$13,00](https://produto.mercadolivre.com.br/MLB-3719385620-modulo-leitor-carto-micro-sd-card-arduino-_JM#position=4&search_layout=stack&type=item&tracking_id=127e59d2-3b0c-4126-9fd4-805f17bc6232) ou [10 Un. R$57,00](https://produto.mercadolivre.com.br/MLB-1060935031-10x-modulo-leitor-carto-micro-sd-card-arduino-_JM#position=4&search_layout=stack&type=item&tracking_id=775bd7d2-858f-4b37-8de6-61aa460dc3ed)
 
 
-## Produtos com UNICA quantidade x preço de compra:
+`Produtos com UNICA quantidade x preço de compra`
 
 [5. Bateria Li-ion 18650:
 2 Un. LG 3200mAh R$60,00 (R$30,00 cada)](https://produto.mercadolivre.com.br/MLB-3178600013-celula-18650-lg-3200mah-inr18650mh1-10a-_JM#position=11&search_layout=stack&type=item&tracking_id=81981d1f-7cd0-4c98-8d0b-cf209bc9fb03)
@@ -74,4 +74,4 @@ celular.
 9. Carcaça/Corpo e botões
 Impressão 3D PUC
 
-## OBS: Por ser uma lista de materiais preliminar podendo sofrer alterações no futuro, não foi considerado o valor de 10 unidades do equipamento em questão, apenas foi incluído anúncios de peças que saem mais barato se comprado em maior quantidade, pois estes podem vir a serem utilizados em futuros projetos de outros alunos.
+`OBS: Por ser uma lista de materiais preliminar podendo sofrer alterações no futuro, não foi considerado o valor de 10 unidades do equipamento em questão, apenas foi incluído anúncios de peças que saem mais barato se comprado em maior quantidade, pois estes podem vir a serem utilizados em futuros projetos de outros alunos.`
