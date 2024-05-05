@@ -17,7 +17,7 @@ No dia 21 de março de 2024, foi realizada uma reunião através da plataforma M
  
 Durante a reunião, as convidadas reesposáveis pela ADEFIP (Associação dos Deficientes Físicos de Poços de Caldas) Larisse e Marcela, mostraram-se interessadas na ideia, porém, está terá que sofrer alterações pequenas, mas cruciais para atender os pacientes do grupo na qual esse projeto foca, dentre as mudanças previstas para o futuro, está a adição de botões menores para ter a possibilidade de mais funções, o tamanho também deverá mudar para maior ou menor a depender de uma outra reunião que ainda irá acontecer, portanto aguarda-se a oportunidade desta ocorrer, no mais, o equipamento se mostrou útil e de grande ajuda no tratamento das pessoas. 
 
-## Prototipo da Mesa ADEFIP
+# Prototipo do Equipamento para a ADEFIP
 
 ![Foto 1](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-mesa_adefip/assets/20716371/a74145bc-53b1-4e5c-a485-20f0a62182ec)
 
