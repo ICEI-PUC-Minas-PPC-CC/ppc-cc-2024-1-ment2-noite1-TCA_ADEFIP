@@ -5,7 +5,7 @@ Para atender os requisitos desta matéria, a fabricação do equipamento será f
 
 Abaixo deixo uma foto da atualização visual do equipamento, onde cresceu apenas 20,4 milimetros e foi de 350 para 374 milimetros (37,4 Centimetros)!
 
-`Essa é uma imagem meramente ilustrativa do TCA (_Tablet de Comunicação Alternativa_), ajustes estruturais poderão ocorrer caso seja necessário.`
+Essa é uma imagem meramente ilustrativa do TCA (_Tablet de Comunicação Alternativa_), ajustes estruturais poderão ocorrer caso seja necessário.
 
 ![TCA 1](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-TCA_ADEFIP/assets/20716371/2d62ccc7-de55-47e2-981c-2262fbb52850)
 
