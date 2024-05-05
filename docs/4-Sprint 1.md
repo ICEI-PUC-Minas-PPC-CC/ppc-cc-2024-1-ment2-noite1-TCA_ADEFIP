@@ -5,7 +5,7 @@ Por hora, a fabricação do equipamento para atender os requisitos desta matéri
 
 Abaixo deixo uma foto da atualização visual do equipamento, lembrando que é uma imagem meramente ilustrativa, pois o equipamento poderá sofrer ajustes estruturais caso necessário.
 
-— Imagem em desenvolvimento —
+`Imagem em desenvolvimento`
 
 
 
