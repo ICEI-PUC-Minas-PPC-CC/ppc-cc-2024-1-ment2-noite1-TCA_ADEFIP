@@ -1,4 +1,4 @@
-# MESA ADEFIP
+# TCA (Tablet de Comunicação Alternativa) - ADEFIP
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Mentoring II`
