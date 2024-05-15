@@ -20,7 +20,7 @@
 |EU COMO...| QUERO/PRECISO ...  |PARA ...                  |
 |--------------------|------------------------------------|----------------------------------------|
 |Maria Luiza Teixeira| De mais facilidade para entender as necessidades do meu filho | Conseguir realiza-las com mais rapidez e eficacia. |
-|Zelia Gomes | Fazer com que minha mãe se expresse melhor | Conseguir conceder os desejos da mãe e ampara-la da melhor forma. |
+|Zelia Gomes | Fazer com que seja entendida com mais clareza | Conseguir uma vida melhor e socializar nos meios. |
 
 
 ## Requisitos Funcionais
