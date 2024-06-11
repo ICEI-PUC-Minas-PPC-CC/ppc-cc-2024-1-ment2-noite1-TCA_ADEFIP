@@ -1,3 +1,7 @@
+<p align="center">
+<img width="500" height="1080" src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-TCA_ADEFIP/assets/20716371/61a6539b-e22e-46e7-9a1d-a0e9baddea33">
+</p>
+
 # DESENVOLVIMENTO - MINI TCA
   Uma versão "Mini" do TCA foi desenvolvida com o objetivo de testar se as travas para botões e outras peças de hardware, atigiriam o acabamento necessário após impressas
 ![MINI TCA - FOTO](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-TCA_ADEFIP/assets/20716371/c7091df4-9760-47cb-80aa-271e89b4e0b5)
